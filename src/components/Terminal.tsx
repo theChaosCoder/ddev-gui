@@ -9,7 +9,7 @@ interface TerminalProps {
 }
 
 export function Terminal({ outputs, onClear, projectName }: TerminalProps) {
-  const [isCollapsed, setIsCollapsed] = useState(false)
+  const [isCollapsed, setIsCollapsed] = useState(true)
   const outputRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
