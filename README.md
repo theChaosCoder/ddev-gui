@@ -1,7 +1,7 @@
 # DDEV GUI
 
 A modern desktop application for managing DDEV projects, built with React, Electron, and Vite.
-<img width="1483" height="938" alt="ddev-gui" src="https://github.com/user-attachments/assets/23382e63-13f1-4016-aaf1-f6ea6ca88429" />
+<img width="1483" height="938" alt="ddev-gui" src="https://github.com/user-attachments/assets/2890b9c8-2ad6-47ed-a4e6-9769635e096c" />
 
 ## Features
 
